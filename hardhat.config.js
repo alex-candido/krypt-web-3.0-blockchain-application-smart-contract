@@ -6,8 +6,8 @@ module.exports = {
   solidity: "0.8.17",
   networks: {
     ropsten: {
-      url: 'https://eth-ropsten.alchemyapi.io/v2/z4WpA8UKgqnwbTYmrZu15yCOiijBKaRv',
-      accounts: ['2f99db8cdb04655028eee1dc98230925202f6b3e010e43fad2883b4bea90a1a3'],
+      url: 'https://eth-mainnet.g.alchemy.com/v2/lLX_Hr4cPPb-KbLymbW4PlVH8YGsNXwF',
+      accounts: ['8e4520ea2e0464b33f89c29cc52d8a188e5a7274ea5e6fff33c6d39a539c88d6'],
     },
   },
 };
